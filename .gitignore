@@ -1,0 +1,14 @@
+# Koddan yazılır (core/pinterest.py): yalnız medya herkese açık depoya girer.
+*
+!*/
+!*.jpg
+!*.jpeg
+!*.png
+!*.webp
+!*.mp4
+!*.mov
+!*.html
+!.nojekyll
+!.gitignore
+!README.md
+.DS_Store
